@@ -1,42 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\",
+  "WorkspaceRootPath": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uC0C8 \uD3F4\uB354 (3)\\vcpp-project\\MS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:MS\\Ms_Logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\MS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:MS\\MS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:MS\\Ms_Interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:MS\\Ms_Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:MS\\Ms_Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:MS\\Ms_Interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:MS\\Ms_Logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\MS.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uC0C8 \uD3F4\uB354 (3)\\vcpp-project\\MS\\MS\\MS.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:MS\\MS.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\MS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:MS\\MS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uC0C8 \uD3F4\uB354 (3)\\vcpp-project\\MS\\MS\\Mine.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:MS\\Mine.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uC0C8 \uD3F4\uB354 (3)\\vcpp-project\\MS\\flag.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{894F6EC9-9FCF-4CFA-9E27-CFE54C391E61}|MS\\MS.vcxproj|solutionrelative:flag.bmp||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,21 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ms_Logic.cpp",
-              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Logic.cpp",
-              "RelativeDocumentMoniker": "MS\\Ms_Logic.cpp",
-              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Logic.cpp",
-              "RelativeToolTip": "MS\\Ms_Logic.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-27T11:16:08.405Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
             },
             {
               "$type": "Bookmark",
@@ -71,104 +37,41 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ms_Level.cpp",
-              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Level.cpp",
-              "RelativeDocumentMoniker": "MS\\Ms_Level.cpp",
-              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Level.cpp",
-              "RelativeToolTip": "MS\\Ms_Level.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-27T11:22:37.792Z"
+              "DocumentIndex": 0,
+              "Title": "MS.rc",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uC0C8 \uD3F4\uB354 (3)\\vcpp-project\\MS\\MS\\MS.rc",
+              "RelativeDocumentMoniker": "MS\\MS.rc",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uC0C8 \uD3F4\uB354 (3)\\vcpp-project\\MS\\MS\\MS.rc",
+              "RelativeToolTip": "MS\\MS.rc",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAiwKYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-28T05:05:33.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MS.cpp",
-              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\MS.cpp",
-              "RelativeDocumentMoniker": "MS\\MS.cpp",
-              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\MS.cpp",
-              "RelativeToolTip": "MS\\MS.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADMBAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-26T10:06:48.308Z"
+              "Title": "Mine.ico - Icon [48x48, 4\uBE44\uD2B8, BMP]",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uC0C8 \uD3F4\uB354 (3)\\vcpp-project\\MS\\MS\\Mine.ico",
+              "RelativeDocumentMoniker": "MS\\Mine.ico",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uC0C8 \uD3F4\uB354 (3)\\vcpp-project\\MS\\MS\\Mine.ico - Icon [48x48, 4\uBE44\uD2B8, BMP]",
+              "RelativeToolTip": "MS\\Mine.ico - Icon [48x48, 4\uBE44\uD2B8, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-11-28T05:05:26.761Z",
+              "EditorCaption": " - Icon [48x48, 4\uBE44\uD2B8, BMP]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Ms_Interface.cpp",
-              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Interface.cpp",
-              "RelativeDocumentMoniker": "MS\\Ms_Interface.cpp",
-              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Interface.cpp",
-              "RelativeToolTip": "MS\\Ms_Interface.cpp",
-              "ViewState": "AgIAAGQAAAAAAAAAAADwv8QAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-26T06:03:29.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Ms_Interface.h",
-              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Interface.h",
-              "RelativeDocumentMoniker": "MS\\Ms_Interface.h",
-              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Interface.h",
-              "RelativeToolTip": "MS\\Ms_Interface.h",
-              "ViewState": "AgIAAE8AAAAAAAAAAADwv1kAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-26T06:06:14.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ms_Logic.h",
-              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Logic.h",
-              "RelativeDocumentMoniker": "MS\\Ms_Logic.h",
-              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Logic.h",
-              "RelativeToolTip": "MS\\Ms_Logic.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-27T14:20:54.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MS.rc",
-              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\MS.rc",
-              "RelativeDocumentMoniker": "MS\\MS.rc",
-              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\MS.rc",
-              "RelativeToolTip": "MS\\MS.rc",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwB4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-11-28T00:54:49.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MS.h",
-              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\MS.h",
-              "RelativeDocumentMoniker": "MS\\MS.h",
-              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\MS.h",
-              "RelativeToolTip": "MS\\MS.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-26T10:46:16.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ms_Level.h",
-              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Level.h",
-              "RelativeDocumentMoniker": "MS\\Ms_Level.h",
-              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uD504\uB85C\uC81D\uD2B8\\vcpp-project\\MS\\MS\\Ms_Level.h",
-              "RelativeToolTip": "MS\\Ms_Level.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-26T10:47:53.44Z"
+              "Title": "flag.bmp",
+              "DocumentMoniker": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uC0C8 \uD3F4\uB354 (3)\\vcpp-project\\MS\\flag.bmp",
+              "RelativeDocumentMoniker": "flag.bmp",
+              "ToolTip": "C:\\Users\\kisim\\Desktop\\c\u002B\u002B\\\uC0C8 \uD3F4\uB354 (3)\\vcpp-project\\MS\\flag.bmp",
+              "RelativeToolTip": "flag.bmp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-28T05:02:08.922Z",
+              "EditorCaption": ""
             }
           ]
         }

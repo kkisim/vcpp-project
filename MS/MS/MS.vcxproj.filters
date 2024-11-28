@@ -63,12 +63,6 @@
     <Image Include="MS.ico">
       <Filter>리소스 파일</Filter>
     </Image>
-    <Image Include="..\..\..\..\..\지뢰찾기\MFC-MineSweeper\Mine\res\Mine.ico">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="..\..\..\..\..\지뢰찾기\MFC-MineSweeper\Mine\res\MineDoc.ico">
-      <Filter>리소스 파일</Filter>
-    </Image>
     <Image Include="..\adjbomb.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
@@ -81,22 +75,13 @@
     <Image Include="..\cell_clicked.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
-    <Image Include="..\explode.bmp">
-      <Filter>리소스 파일</Filter>
-    </Image>
     <Image Include="..\flag.bmp">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="..\Mine.ico">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="..\number.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
     <Image Include="..\qmark.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
-    <Image Include="..\wrong.bmp">
+    <Image Include="Mine.ico">
       <Filter>리소스 파일</Filter>
     </Image>
   </ItemGroup>

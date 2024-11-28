@@ -145,18 +145,13 @@
     <ResourceCompile Include="MS.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\..\지뢰찾기\MFC-MineSweeper\Mine\res\Mine.ico" />
-    <Image Include="..\..\..\..\..\지뢰찾기\MFC-MineSweeper\Mine\res\MineDoc.ico" />
     <Image Include="..\adjbomb.bmp" />
     <Image Include="..\bomb.bmp" />
     <Image Include="..\cell.bmp" />
     <Image Include="..\cell_clicked.bmp" />
-    <Image Include="..\explode.bmp" />
     <Image Include="..\flag.bmp" />
-    <Image Include="..\Mine.ico" />
-    <Image Include="..\number.bmp" />
     <Image Include="..\qmark.bmp" />
-    <Image Include="..\wrong.bmp" />
+    <Image Include="Mine.ico" />
     <Image Include="MS.ico" />
     <Image Include="small.ico" />
   </ItemGroup>
