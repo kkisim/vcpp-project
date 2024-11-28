@@ -1,7 +1,8 @@
 ﻿  MS.cpp
-C:\Users\kisim\Desktop\c++\프로젝트\새 폴더\vcpp-project\MS\MS\MS.cpp(393,26): warning C4244: '초기화 중': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kisim\Desktop\c++\프로젝트\vcpp-project\MS\MS\MS.cpp(393,26): warning C4244: '초기화 중': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Ms_Interface.cpp
   Ms_Level.cpp
   Ms_Logic.cpp
   코드를 생성하고 있습니다...
-  MS.vcxproj -> C:\Users\kisim\Desktop\c++\프로젝트\새 폴더\vcpp-project\MS\x64\Debug\MS.exe
+  LINK : C:\Users\kisim\Desktop\c++\프로젝트\vcpp-project\MS\x64\Debug\MS.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  MS.vcxproj -> C:\Users\kisim\Desktop\c++\프로젝트\vcpp-project\MS\x64\Debug\MS.exe
